@@ -1,4 +1,4 @@
-# 🌸 STARFUMES – Online Store Management System
+# 🌸 STARFUMES – Database For Online Brand 
 
 A SQL-based Online Store Management System for STARFUMES, a perfume retail business. Automates inventory, orders, payments, and reporting.
 
