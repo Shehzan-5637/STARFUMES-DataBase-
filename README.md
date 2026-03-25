@@ -44,4 +44,9 @@ STARFUMES-OnlineStore/
 3. Verify outputs via the Screenshots folder
 
 ## 📫 Contact
-Ali Shehzan, BSCS Student @ Iqra University, Karachi, Pakistan
+
+**Ali Shehzan Punjwani**  
+🎓 BSCS Student @ Iqra University  
+📍 Karachi, Pakistan  
+📧 shehzansohail5637@gmail.com
+🔗www.linkedin.com/in/ali-shehzan-punjwani
